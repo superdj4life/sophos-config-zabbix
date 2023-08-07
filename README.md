@@ -1,12 +1,13 @@
 # sophos-config-zabbix
-Template to monitor the configuration of Sophos UTM v.9.6 by Zabbix > 4.0
+Template to monitor the configuration of Sophos UTM v.9.6 by Zabbix > 6.2
 
 Disclaimer:
 
-This is 0.1apha version of template and script
+This is froked from an 0.1apha version of the template and script. I updated the code to run in Python 3.9 
+as it was written for Python 2 previously.  
 
 This isn't an official template by Sophos Company or Zabbix SIA
 
-Tested against Sophos v9.6 with 1.3 release of API engine
+Tested against Sophos v9.7 
 
-Tested on Zabbix 4.0.2
+Tested on Zabbix 6.2
