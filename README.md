@@ -29,7 +29,9 @@ In Zabbix
 4. Adjust template macros in Configuration -> Templates -> Sophos 9.6 Template -> Macros 
 	
 	{$SNMP_COMMUNITY} - Your SNMPv2 community string
+	
 	{$T_SOPHOS_API_PASSWORD} - API key configured in the Firewall section 
-	{$T_SOPHOS_API_USER} - API user configured in the Firewall section
+	
+   	{$T_SOPHOS_API_USER} - API user configured in the Firewall section
 
 5. Press update to save changes
